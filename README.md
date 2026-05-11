@@ -8,7 +8,7 @@ I use this repo to learn, experiment, and improve my Linux and shell scripting s
 
 practice/ - Bash practice scripts
 scripts/ - Automation scripts
-Linux SysAdmin/ - Linux admin tasks
+SysAdmin/ - Linux admin tasks
 projects/ - Mini projects
 notes/ - Notes and references
 
